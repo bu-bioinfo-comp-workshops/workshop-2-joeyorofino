@@ -26,3 +26,6 @@ See `requirements.txt` for Python dependencies.
 
 ## Submitting Your Work
 Push all your completed scripts, reports, and results to your GitHub Classroom repository.
+
+
+Added from CLI
